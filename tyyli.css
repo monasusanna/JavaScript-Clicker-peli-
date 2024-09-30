@@ -1,0 +1,38 @@
+.container {
+    text-align: center;
+}
+img {
+    width: 13%;
+
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+body {
+    background-color: rgb(115, 105, 89);
+}
+
+h1 {
+    font-family: Rubik Bubbles;
+    font-size: 80px;
+    color: white;
+    
+}
+
+p {
+    font-family: Rubik Bubbles;
+    color: white;
+    font-size: 20px;
+}
+
+button {
+    border-radius: 10px;
+    width: 15%;
+    font-family: Rubik Bubbles;
+    margin-top: 10px;
+    height: 30px;
+
+}
+
